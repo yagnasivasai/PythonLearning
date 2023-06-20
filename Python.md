@@ -7,8 +7,18 @@
 + https://codecombat.com/play/dungeon
 + https://dbader.org/
 
+##  Github
++ https://github.com/ZaytsevNS/python_codewars
 
 + https://www.piratekingdom.com/courses/coding
+
++ https://github.com/microsoft/Web-Dev-For-Beginners
+
++ https://github.com/practical-tutorials/project-based-learning
+
++ https://github.com/trekhleb/javascript-algorithms
++ https://github.com/CoreyMSchafer/code_snippets
++ https://github.com/backtobackswe/backtobackswe-solutions
 
 
 
@@ -64,3 +74,9 @@
 
 + https://faheemkhan97.hashnode.dev/
 
+### Web
+- https://fedingo.com/ Python//Linux//Nginx//Apache
+
+### Coding
+- https://kalkicode.com/data-structure/1500-most-common-data-structures-and-algorithms-solutions?utm_id=FAUN_PyDo358_Link_title
+- https://kalkicode.com/
